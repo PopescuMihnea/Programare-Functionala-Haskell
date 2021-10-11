@@ -5,6 +5,7 @@
 - [Haskell Wiki](https://wiki.haskell.org/Haskell "Haskell Wiki") 
 - [Hoogle](https://hoogle.haskell.org/ "Hoogle") 
 - [Tutorial online - recomandat](http://learnyouahaskell.com/chapters "Tutorial online - recomandat") 
+- [Carte online - Real World Haskell](http://book.realworldhaskell.org/) 
 
 #### Carti : 
 
