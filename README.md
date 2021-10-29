@@ -2,6 +2,7 @@
 
 #### Link-uri utile : 
 
+- [Link punctaje si prezenta](https://docs.google.com/spreadsheets/d/1iCbsPdUIIi2ntQL9-fDvRlz0qsG0bunuKLg4xwtcnPQ/edit?usp=sharing)
 - [Link drive](https://drive.google.com/drive/folders/1mialMDDiGAqwk1EvE9mQWbK8CY6Ty0vH)
 - [Haskell Wiki](https://wiki.haskell.org/Haskell "Haskell Wiki") 
 - [Hoogle](https://hoogle.haskell.org/ "Hoogle") 
