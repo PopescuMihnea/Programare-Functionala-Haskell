@@ -8,6 +8,8 @@
 - [Hoogle](https://hoogle.haskell.org/ "Hoogle") 
 - [Tutorial online - recomandat](http://learnyouahaskell.com/chapters "Tutorial online - recomandat") 
 - [Carte online - Real World Haskell](http://book.realworldhaskell.org/) 
+- [Operatorul $](https://typeclasses.com/featured/dollar)
+- [Ninety-Nine Haskell Problems](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems)
 
 #### Carti : 
 
